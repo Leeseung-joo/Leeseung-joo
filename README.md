@@ -7,15 +7,9 @@
 
 ## 👋 Welcome!
 
-안녕하세요! 끊임없이 배우고 성장하는 백엔드 개발자 **이승주**입니다.  
+안녕하세요! 끊임없이 배우고 성장하는 백엔드 개발자 **이승주**입니다.
 
-
-<!-- solved.ac 티어 뱃지 -->
-<br/>
 [![solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eun07213)](https://solved.ac/eun07213)
-
-
-<br/><br/>
 
 <!-- GitHub Stats + Most Used Languages 좌우 배치 -->
 <table>
@@ -30,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 
 <br/>
 
