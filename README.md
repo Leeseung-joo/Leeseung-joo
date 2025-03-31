@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=Java&logoColor=white"/>
 <div>
 
 
@@ -32,15 +34,12 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </div>
 
-<div>
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeseung-joo)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Leeseung-joo&show_icons=true&theme=default" />
 </div>
 
-<div>
-<div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeseung-joo)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+
 
 
 
