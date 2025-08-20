@@ -5,7 +5,6 @@
 
 </div>
 
----
 
 ## 🏫 Education & Courses  
 
