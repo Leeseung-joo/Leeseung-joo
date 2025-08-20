@@ -1,9 +1,3 @@
-<div align="center">
-
-<!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:accbee,100:e7f0fd&height=250&section=header&text=Welcome%20to%20Seungjoo's%20GitHub!%20😊&fontSize=40"/>
-
-<br/>
 
 ## 👋 Welcome!
 
