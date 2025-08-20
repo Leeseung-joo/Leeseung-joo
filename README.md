@@ -5,8 +5,13 @@
 
 </div>
 
+---
+
+<div align="center">
 
 ## 🏫 Education & Experiences
+
+</div>
 
 - 🎓 **한국외국어대학교** — 바이오메디컬공학 / 컴퓨터전자시스템공학(부)
 - 🧪 **바이오메디컬 LAB 연구 인턴** *(2023.07 ~ 2023.12)*  
@@ -17,13 +22,17 @@
 
 ---
 
+<div align="center">
+
 ## 🏆 Certifications & Awards  
 
-### 📜 자격증  
-- 🗓 **SQLD**(2025.04.04)  
-- 🗓 **정보처리기사**(2025.09.02)  
+</div>
 
-### 🥇 수상 경력  
+### 📜 **자격증**  
+- 🗓 **SQLD** (2025.04.04)  
+- 🗓 **정보처리기사** (2025.09.02)  
+
+### 🥇 **수상 경력**  
 - 🧠 **2023 ICMRI 학회 논문 초록 등재** *(1저자)*  
   → **Input 구조 개선** 및 **Loss Function 최적화**를 통한 **20% 성능 향상**  
 - 🥈 **2025 한국외국어대학교 Challkathon 2위** *(17팀 중)*  
@@ -33,9 +42,13 @@
 
 ---
 
+<div align="center">
+
 ## 📊 Stats  
 
-<table>
+</div>
+
+<table align="center">
   <tr>
     <td align="center">
       <strong>🚀 GitHub Stats</strong><br/><br/>
@@ -51,9 +64,14 @@
 </table>
 
 ---
-## ✨ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
+
+## ✨ Tech Stack  
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -65,9 +83,13 @@
 
 ---
 
-## ☁️ Infra & Database
+<div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+## ☁️ Infra & Database  
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -77,13 +99,15 @@
 
 ---
 
-## 🛠️ Tools
+<div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+## 🛠️ Tools  
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </div>
-
----
