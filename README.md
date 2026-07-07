@@ -44,27 +44,6 @@
 
 <div align="center">
 
-## 📊 Stats  
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>🚀 GitHub Stats</strong><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Leeseung-joo&show_icons=true&theme=default" />
-    </td>
-    <td align="center">
-      <strong>💡 Solved.ac</strong><br/><br/>
-      <a href="https://solved.ac/eun07213">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=eun07213" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
 ## ✨ Tech Stack  
