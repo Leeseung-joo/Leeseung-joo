@@ -17,8 +17,8 @@
 - 🧪 **바이오메디컬 LAB 학부 연구생** *(2023.07 ~ 2023.12)*
 - 💻 **컴퓨터공학부 웹개발 학회 Rcube** *(2024.04 ~ 2024.09)*
 - 🏥 **한국외국어대학교 산학협력단 인턴** *(2024.08 ~ 2024.10)*
--  🏢 **SSG I&C 자바 기반 백엔드 개발 양성과정** *(2025.01 ~ 2025.07)*
-- 🌐 **IT 개발 연합동아리 UMC**(2025.03 ~ 2026.02)
+- 🏢 **SSG I&C 자바 기반 백엔드 개발 양성과정** *(2025.01 ~ 2025.07)*
+- 🌐 **IT 개발 연합동아리 UMC** *(2025.03 ~ 2026.02)*
 - 💼 **일경험 인턴** *(2026.05 ~ 2026.07)*
 - 🚀 **삼성 청년 SW·AI 아카데미 SSAFY 16기** *(2026.06 ~ ing)*
 
@@ -42,7 +42,7 @@
 - 🥈 **2025 한국외국어대학교 Challkathon 2위**  
   → 가족 소통 단절 개선 플랫폼 **Momento** 개발
 - 🏆 **SSG I&C Final 프로젝트 최우수팀** *(1위, Team Lead)*
-- 🌟 **UMC 8th 베스트 파트원상**  
+- 🌟 **UMC 8th 베스트 파트원상**
 - 🏅 **UMC 9th 데모데이 최우수상**
 
 ---
@@ -73,10 +73,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
 </div>
 
